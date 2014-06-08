@@ -14,8 +14,8 @@ owner:
   email:          moniliformopse@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  facebook: ''https://www.facebook.com/vincent.thizeau.3''
-  github: ''https://github.com/Moniliformopse''
+  facebook: https://www.facebook.com/vincent.thizeau.3
+  github: https://github.com/Moniliformopse
   stackexchange:
   linkedin:
   instagram:
