@@ -4,9 +4,9 @@ title: "Biographie de Louis Bascan"
 modified: 2014-06-14 17:35:23 +0200
 tags: [article, images, livres]
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: moniliformopse_livre.jpg
+  credit: Shin5963
+  creditlink: https://www.flickr.com/photos/87384485@N08/
 comments:  true
 share:  true
 ---
