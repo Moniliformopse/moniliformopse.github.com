@@ -38,7 +38,7 @@ L'identité graphique de ce site utilise les outils suivants :
 - LESS ->  [http://lesscss.org/](http://lesscss.org/)
 - des variables [LIQUID](http://docs.shopify.com/themes/liquid-basics), pour la création des pages.
 
-Retrouvez toutes les caractéristiques du thème sur GitHub -> https://github.com/mmistakes/so-simple-theme/
+[Retrouvez toutes les caractéristiques du thème sur GitHub](https://github.com/mmistakes/so-simple-theme/).
 
 L'ensemble est hébergé par [GiHub](https://github.com/) selon les modalités de [GitHubPages](https://pages.github.com/).
 
