@@ -35,7 +35,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: A propos
-    url: /about/
+    url: /a-propos/
   - title: Articles
     url: /articles/
   - title: Theme Setup
