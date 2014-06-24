@@ -146,7 +146,7 @@ Etude de l'efficacité énergétique : comment l'améliorer ? Etude d'exemples c
 
 Des posters, des cartes heuristiques.
 
-Des présentations numériques aux formats Power-point, Prezzi.
+Des présentations numériques aux formats Power-point, [Prezi](http://prezi.com).
 
 Des photos, des vidéos.
 
