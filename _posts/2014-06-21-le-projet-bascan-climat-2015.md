@@ -54,7 +54,7 @@ Le projet cible l'année scolaire 2014-2015, avec
 
 Il devrait également se poursuivre après, notamment au premier semestre de l'année scolaire 2015-2016, en valorisant les travaux des lycéens lors de la période de la conférence internationale (COP 21) en décembre 2015.
 
-**En savoir plus :** [consultez la maquette du projet « Bascan climat 2015 »](http://moniliformopse.github.io/le-projet-bascan-climat-2015/)
+**En savoir plus :** [consultez la maquette du projet « Bascan climat 2015 »](http://moniliformopse.github.io/la-maquette-bascan-climat-2015/)
 
 ---
 **Quelques repères en ligne :**
