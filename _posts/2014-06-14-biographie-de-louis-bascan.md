@@ -31,4 +31,9 @@ Une rue de la commune de Viroflay et notre établissement portent aujourd’hui 
 
 Vous pouvez vous procurer le livre en allant sur le [site de l'éditeur](http://www.editions-harmattan.fr/ "Lien externe") ou sur le site de la librairie [La Procure](http://www.laprocure.com "Lien externe"). Vous pouvez aussi vous adresser à votre libraire. A Rambouillet, il est en vente depuis la première semaine de juin 2014 à la librairie Patenôtre.Au lycée, un exemplaire est consultable au Cdi du bâtiment F. ###Quel prolongement donné à cette biographie ?
 
-En novembre prochain, à l'occasion du 70ème anniversaire de la mort de Louis Bascan, une conférence sera organisée à Rambouillet.
+Samedi 13 décembre 2014, à 15h00, à l'occasion du 70ème anniversaire de la mort de Louis Bascan, une conférence sera organisée à la médiathèque Florian de Rambouillet.
+
+Par ailleurs, Didier Fischer dédicacera son ouvrage :
+
+* au salon des Ecrivains à Rambouillet (hôtel Mercure, près de la mairie), le 12 octobre 2014 de 10h00 à 18h00 ;
+* au salon du Livre aux Essarts-le-Roi (Salle Polyvalente, mairie), le 16 novembre 2014 de 10h00 à 18h00.

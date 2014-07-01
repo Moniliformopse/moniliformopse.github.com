@@ -35,7 +35,7 @@ Le tout devrait pouvoir aboutir à la création d'un jeu : **« La boîte à que
 |:--------|:-------:|
 | EDD (EE)   | Mmes Alix Combes et Laurence Eudeline   |
 |----
-| HG / ECJS   | Mme Karine Chanu   |
+| HG / ECJS   | Mmes Hélène Baudesson et Karine Chanu   |
 |----
 | PC   | Mme Edith Bernage   |
 |----
