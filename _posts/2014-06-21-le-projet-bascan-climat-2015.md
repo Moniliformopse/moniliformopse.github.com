@@ -41,7 +41,7 @@ C'est ainsi qu'est né le projet éducatif inter-académique (Paris - Créteil -
 - **éduquer** aux enjeux climatiques et aux enjeux de la gouvernance internationale dans ce domaine ;
 - **préparer** l'accueil en 2015 de la 21ème conférence des parties à la convention climat en impliquant des lycéens.
 
-**C'est dans ce cadre qu'une équipe de cinq enseignants du lycée Louis Bascan s'est portée volontaire pour participer à ce projet.**
+**C'est dans ce cadre qu'une équipe de six enseignants du lycée Louis Bascan s'est portée volontaire pour participer à ce projet.**
 
 ##La démarche envisagée dans notre lycée
 
