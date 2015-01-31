@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: A propos
+  url: /a-propos/
+
+- title: Archives
+  url: /articles/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: TiddlySpace
+  url: http://moniliformopse.tiddlyspace.com
+  
+- title: Flux
+  url: /feed.xml
+
+- title: Rechercher
+  url: /search/
