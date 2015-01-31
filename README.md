@@ -59,7 +59,38 @@ Pour installer le thème *So Simple* pour Jekyll, lire la documentation de son a
 ## Structure complète du blog
 
 ``` bash
-so-simple-theme/ ├── includes/ | ├── browser-upgrade.html # prompt to install a modern browser for < IE9 | ├── disqus_comments.html # Disqus comments script | ├── footer.html # site footer | ├── head.html # site head | ├── navigation.html # site top navigation | ├── open-graph.html # Twitter Cards and Open Graph meta data | └── scripts.html # site scripts | └── site-search.html # site search overlay ├── layouts/ | ├── page.html # single column page layout | └── post.html # main content with sidebar for author/post details ├── posts/ # MarkDown formatted posts ├── sass/ # Sass stylesheets ├── templates/ # used by Octopress to define YAML variables for new posts/pages ├── about/ # sample about page ├── articles/ # sample articles category page ├── assets/ | ├── css/ # compiled stylesheets | ├── fonts/ # webfonts | └── js/ | ├── main.js # main JavaScript file, plugin settings, etc | ├── plugins/ # scripts and jQuery plugins to combine with main.js | ├── scripts.min.js # concatenated and minified main.js + plugin scripts | └── vendor/ # vendor scripts to leave alone and load as is ├── blog/ # sample blog category page ├── images/ # images for posts and pages ├── 404.md # 404 page ├── feed.xml # Atom feed template ├── index.md # sample homepage. lists 5 latest posts └── theme-setup/ # theme setup page. safe to remove 
+so-simple-theme/
+├── _includes/
+|    ├── browser-upgrade.html   # prompt to install a modern browser for < IE9
+|    ├── disqus_comments.html   # Disqus comments script
+|    ├── footer.html            # site footer
+|    ├── head.html              # site head
+|    ├── navigation.html        # site top navigation
+|    ├── open-graph.html        # Twitter Cards and Open Graph meta data
+|    └── scripts.html           # site scripts
+|    └── site-search.html       # site search overlay
+├── _layouts/
+|    ├── page.html               # single column page layout
+|    └── post.html               # main content with sidebar for author/post details
+├── _posts/                      # MarkDown formatted posts
+├── _sass/                       # Sass stylesheets
+├── _templates/                  # used by Octopress to define YAML variables for new posts/pages
+├── about/                       # sample about page
+├── articles/                    # sample articles category page
+├── assets/
+|    ├── css/                    # compiled stylesheets
+|    ├── fonts/                  # webfonts
+|    └── js/
+|        ├── _main.js            # main JavaScript file, plugin settings, etc
+|        ├── plugins/            # scripts and jQuery plugins to combine with _main.js
+|        ├── scripts.min.js      # concatenated and minified _main.js + plugin scripts
+|        └── vendor/             # vendor scripts to leave alone and load as is
+├── blog/                        # sample blog category page
+├── images/                      # images for posts and pages
+├── 404.md                       # 404 page
+├── feed.xml                     # Atom feed template
+├── index.md                     # sample homepage. lists 5 latest posts 
+└── theme-setup/                 # theme setup page. safe to remove 
 ```
 
 ## Configuration
