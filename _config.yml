@@ -7,15 +7,18 @@ comments: true
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:      http://moniliformopse.github.io        
+url:      http://moniliformopse.github.io
+
+site:
+  owner:
+    # Disqus comments.
+    disqus_shortname: monblogsurgithub        
 
 # Owner/author information
 owner:
   name:           Moniliformopse
   avatar:         bio-photo.jpg
   email:          moniliformopse@gmail.com
-  # Disqus comments.
-  disqus_shortname: monblogsurgithub
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook: vincent.thizeau.3
