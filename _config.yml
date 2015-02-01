@@ -13,6 +13,8 @@ owner:
   name:           Moniliformopse
   avatar:         bio-photo.jpg
   email:          moniliformopse@gmail.com
+  # Disqus comments.
+  disqus_shortname: monblogsurgithub
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook: vincent.thizeau.3
