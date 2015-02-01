@@ -11,7 +11,7 @@ url:      http://moniliformopse.github.io
 
 site:
   owner:
-    # Disqus comments.
+    # Disqus comments
     disqus_shortname: monblogsurgithub        
 
 # Owner/author information
