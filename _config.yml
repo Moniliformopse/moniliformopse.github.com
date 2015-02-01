@@ -2,7 +2,7 @@ title:            Moniliformopse
 locale: en_FR
 description:      Cherchez avec ce qu’il faut de conviction préétablie et vous trouverez.
 logo:             site-logo.png
-disqus_shortname:
+disqus_shortname: monblogsurgithub
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
