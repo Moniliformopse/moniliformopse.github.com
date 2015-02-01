@@ -24,7 +24,8 @@ owner:
   youtube: UCZ6jZcmisV3O_Yggk79rHwA
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
-disqus-shortname: monblogsurgithub
+  # For comments in article or page.
+  disqus-shortname: monblogsurgithub
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
