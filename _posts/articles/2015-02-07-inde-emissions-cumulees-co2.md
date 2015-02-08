@@ -14,7 +14,7 @@ share: true
 ---
 ##Quatre représentations
 
-Base de données : Word Resources Institue (WRI)[^1] - [CAIT 2.0  WRIs Climate Data Explorer](http://www.wri.org/our-work/project/cait-climate-data-explorer "Lien externe")
+Base de données : World Resources Institue (WRI)[^1] - [CAIT 2.0  WRIs Climate Data Explorer](http://www.wri.org/our-work/project/cait-climate-data-explorer "Lien externe")
 {: .notice}
 
 **Carte**
