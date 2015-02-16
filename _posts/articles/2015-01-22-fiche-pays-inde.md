@@ -105,6 +105,16 @@ A ce jour, l'Inde n'est pas un pays bénéficiaire du programme REDD+<br>**Pour
 *Source :* International Energy Agency (iea) - [www.iea.org](http://www.iea.org/statistics/statisticssearch/report/?&country=INDIA&year=2012&product=Indicators "Lien externe") (indicateurs indiens)<br>**Réserves de sources d’énergie non-renouvelables en fin-2008** (worldenergy.org)<br>- charbon : 60 600 millions de tonnes ;<br>- huiles brutes et gaz naturels liquides : 740 millions de tonnes et 5 836 millions de barils ;<br>- gaz naturel : 1 074 milliards de m<sup>3</sup>
 {:.notice}
 
+<figure>
+	<a href="http://www.notretribunet.fr/MonBlogGitHub/images/png/tableau_mix_energetique_inde.png"><img src="http://bit.ly/1zGGnuM" alt="figure" /></a>
+	<figcaption>Tableau de la production et de la consommation énergétiques en Inde (source : Energy Balance 2010, AIE)</figcaption>
+</figure>
+
+**Données complémentaires :**<br>
+[Le mix énergétique indien](http://moniliformopse.github.io/articles/inde-energie/)<br>
+Contexte actuel et évolution du bouquet énergétique
+{:.notice}
+
 ##Gaz à effet de serre (GES)
 
 Année de référence : 2010
@@ -112,6 +122,16 @@ Année de référence : 2010
 **Émissions de CO<sub>2</sub> en 2010 (kilotonnes) :** 2 008 823 (BM)<br>**Émissions de CO<sub>2</sub> en 1990 :** 793 490 en 1994 (UNFCCC)<br>**Émissions cumulées CO<sub>2</sub> 1850-2010 :** 33 720,36 Mt CO<sub>2</sub><br>**Émission de CO<sub>2</sub> par habitant (t/hab) :** 1,7 (BM)<br>**Émissions de CH<sub>4</sub> en 2010 (kt CO<sub>2</sub> eq) :** 621 480 (BM)<br>**Émissions de N<sub>2</sub>O en 2010 (kt CO<sub>2</sub> eq) :** 234 136 (BM)<br>**Émissions des autres GES (HFC, PFC et SF<sub>6</sub>) en 2010 (kt CO<sub>2</sub> eq) :** 20 937 (BM)<br>
 **Émissions totales (kt CO<sub>2</sub> eq) :** 2 885 376 (BM)
 {:.notice}
+
+Tableau des émissions de GES
+
+| GES (2010) | Total | CO<sub>2</sub> | CH<sub>4</sub> | N<sub>2</sub>O | Autre GES (HFC, PFC, HF<sub>6</sub>) |
+|:--------|:-------:|
+| kt CO<sub>2</sub>eq   | 2 885 376   | 2 008 823   | 621 480   | 234 136   | 20 937   |
+|----
+| % du total   | 100   | 69,62   | 21,54   | 8,11   | 0,73   |
+|=====
+{: rules="groups"}
 
 **Données complémentaires :**<br>
 [Les émissions cumulées de CO<sub>2</sub> par l'Inde de 1850 à 2010](http://moniliformopse.github.io/articles/inde-emissions-cumulees-co2/)<br>
