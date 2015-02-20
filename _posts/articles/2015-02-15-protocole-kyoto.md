@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dix ans après l'entrée en vigueur du protocole de Kyoto
-excerpt: "Tout reste à faire"
+excerpt: "Première partie - Tout reste à faire"
 modified: 2015-02-15 19:20:46 +0100
 categories: articles
 tags: [article, COP21, émissions de CO2, Kyoto, protocole]
@@ -119,3 +119,26 @@ Quel est donc le bilan du protocole de Kyoto ? Comment l'adapter à la situation
 
 *Source :* [vidéo publiée sur Le Monde.fr](http://www.lemonde.fr/planete/video/2015/02/16/dix-ans-apres-son-entree-en-vigueur-comment-mettre-a-jour-le-protocole-de-kyoto_4577464_3244.html "Lien externe") le 16.02.2015 - Par Stéphane Foucart et Joséfa Lopez.
 {: .notice}
+
+##Entretiens : deux personnalités françaises nous livrent leur regard sur les 10 ans de l'entrée en vigueur du protocole de Kyoto
+
+**Laurence Tubiana** - « Le protocole de Kyoto est une réussite, mais ne suffit pas »
+
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1RmW45peNUw?rel=0" frameborder="0" allowfullscreen></iframe>
+	<figcaption><a href="https://www.youtube.com/watch?v=1RmW45peNUw" target="_blank" title="lien externe, s'ouvre dans une nouvelle fenêtre">Vidéo sur YouTube</a> - Durée : 11 minutes 26 secondes  - L’année 2015 pourrait en tout cas être l'année du climat car la France accueille dans neuf mois le plus grand rendez-vous de la décennie. Les États pourraient signer un accord environnemental historique, ce que souhaite Laurence Tubiana, ambassadrice chargée des négociations sur le changement climatique pour Paris Climat 2015.<br>
+	« Le protocole de Kyoto est une belle réussite car réduire les émissions de gaz à effet de serre, c’est devenu concret et beaucoup de pays s’y sont engagés », affirme Laurence Tubiana sur la chaîne de télévision <a href="http://www.france24.com/fr/" target="_blank" title="lien externe, s'ouvre dans une nouvelle fenêtre">France 24</a>, mardi 17 février 2015, « mais le protocole de Kyoto ne suffit pas, c’est pour cela que l’on doit le remplacer ».</figcaption>
+</figure>
+
+**Corinne Lepage** - Le bilan du protocole de Kyoto est « plutôt positif »
+
+<figure>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JnrazMoM1Yg?rel=0" frameborder="0" allowfullscreen></iframe>
+	<figcaption><a href="https://www.youtube.com/watch?v=JnrazMoM1Yg" target="_blank" title="lien externe, s'ouvre dans une nouvelle fenêtre">Vidéo sur YouTube</a> - Durée : 8 minutes 15 secondes  - Corine Lepage, avocate et ancienne ministre de l'Environnement était l'invitée de la chaîne de télévision <a href="http://www.france24.com/fr/" target="_blank" title="lien externe, s'ouvre dans une nouvelle fenêtre">France 24</a>, lundi 16 février 2015, pour faire le bilan du Protocole de Kyoto, 10 ans après sa signature.</figcaption>
+</figure>
+
+---
+
+**Lecture complémentaire :**
+
+- [Les 10 ans du protocole de Kyoto : quel bilan ?](http://moniliformopse.github.io/articles/bilan-kyoto/) (Deuxième partie)
