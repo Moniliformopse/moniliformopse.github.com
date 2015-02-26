@@ -98,6 +98,11 @@ L’Inde est très exposée aux catastrophes naturelles qui causent de lourdes p
 A ce jour, l'Inde n'est pas un pays bénéficiaire du programme REDD+<br>**Pourcentage de la population active dans le secteur agricole (% de la population active totale) :** 47% en 2012 (BM)<br>**Surface agricole (% de la surface totale) :** 60,3% en 2012 (BM)
 {:.notice}
 
+**Pour approfondir :**
+
+- [La stratégie politique indienne face au dérèglement climatique dans le secteur agricole](http://moniliformopse.github.io/articles/inde-secteur-agricole/) - Une agriculture entre forces et faiblesses.
+- [Les défis de l'agriculture indienne face au changement climatique](http://moniliformopse.github.io/articles/inde-agriculture/) - Réduction des émissions des gaz à effet de serre et tension sur la sécurité alimentaire.
+
 ##Énergie
 
 **Mode de production d’énergie :**<br>
@@ -110,9 +115,8 @@ A ce jour, l'Inde n'est pas un pays bénéficiaire du programme REDD+<br>**Pour
 	<figcaption>Tableau de la production et de la consommation énergétiques en Inde (source : Energy Balance 2010, AIE)</figcaption>
 </figure>
 
-**Données complémentaires :**<br>
-[Le mix énergétique indien](http://moniliformopse.github.io/articles/inde-energie/)<br>
-Contexte actuel et évolution du bouquet énergétique
+<b>Données complémentaires :</b><br>
+[Le mix énergétique indien](http://moniliformopse.github.io/articles/inde-energie/) - Contexte actuel et évolution du bouquet énergétique.
 {:.notice}
 
 ##Gaz à effet de serre (GES)
@@ -163,6 +167,9 @@ Huit missions nationales ont été définies : solaire, amélioration de l’eff
 |=====
 {: rules="groups"}
 
+<b>Mise en oeuvre :</b> [L’Inde promet des technologies propres](http://moniliformopse.github.io/articles/inde-technologies-propres/) - Équation difficile pour le troisième pays émetteur de gaz à effet de serre
+{:.notice}
+
 **Principales initiatives indiennes sur l’adaptation aux changements climatiques**
 
 | Mission nationale | Objectif | Responsable |
@@ -185,11 +192,19 @@ Huit missions nationales ont été définies : solaire, amélioration de l’eff
 |=====
 {: rules="groups"}
 
+<b>Exemple :</b> [La ville indienne de Surat](http://moniliformopse.github.io/articles/surat/) - Laboratoire de l'adaptation au changement climatique.
+{:.notice}
+
 ##Au sein de la Convention Cadre des Nations Unies sur les Changements Climatiques
 
 **Appartenance à une alliance au sein de la CCNUCC :** BASIC, G77 + Chine<br>
 **Pays alliés, participants à la simulation, du fait de ces alliances :** Brésil, Chine, Bangladesh, Philippines, Sénégal, Maldives<br>**Engagement sur la 2ème phase du protocole de Kyoto (2012-2020) (oui/non) :** Non
 {:.notice}
+
+**Protocole de Kyoto**
+
+- Première partie - [Dix ans après l'entrée en vigueur du protocole de Kyoto](http://moniliformopse.github.io/articles/protocole-kyoto/) - Tout reste à faire.
+- Deuxième partie - [Les 10 ans du protocole de Kyoto](http://moniliformopse.github.io/articles/bilan-kyoto/) - Quel bilan ?
 
 **Position politique dans les négociations**
 
