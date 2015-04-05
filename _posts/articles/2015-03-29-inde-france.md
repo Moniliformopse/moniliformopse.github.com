@@ -25,7 +25,7 @@ Le ministre français des Affaires étrangères, Laurent Fabius, avait annoncé 
 
 Cette visite de deux jours se déroulera pour partie en province, a précisé Laurent Fabius à quelques journalistes.
 
-<i>Ndlr</i> - En marge de ces relations stratégiques et commerciales, chacun des représentants des deux pays ne manqueront pas d'aborder la COP 21. Ce sera peur-être l'occasion de rappeler au combien la contribution nationale indienne est attendue par la communauté internationale.
+<i>Ndlr</i> - En marge de ces relations stratégiques et commerciales, chacun des représentants des deux pays ne manqueront pas d'aborder la COP 21. Ce sera peut-être l'occasion de rappeler au combien la contribution nationale indienne est attendue par la communauté internationale.
 
 Après la visite du Premier ministre indien en avril, Son Excellence M. l’Ambassadeur Shri.Arun Kumar Singh quittera son poste à Paris pour devenir le nouvel ambassadeur de l’Inde aux Etats-Unis (USA)[^1].
 
