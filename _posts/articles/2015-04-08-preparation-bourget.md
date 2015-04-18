@@ -64,7 +64,7 @@ Financé par le lycée Louis Bascan avec des tickets transiliens « Mobilis ».
 - Départ : gare de Rambouillet.
 - Direction Paris gare Montparnasse (34 min)
 - Rejoindre le métro ligne 6 direction Nation - Arrêt station Denfert-Rochereau.
-- Cooresspondance RER B direction Mitry Claye.
+- Correspondance RER B direction Mitry Claye.
 - Arrivée : station Le Bourget.
 - Prendre le bus ligne 143 - Arrêt Ecole Normale (juste devant l'entrée du lycée du Bourget)
 
