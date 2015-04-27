@@ -2,7 +2,7 @@
 layout: post
 title: Le changement climatique et la diplomatie indienne
 excerpt: "Un exemple de gouvernance du climat"
-modified: 2015-04-26 08:26:37 +0100
+modified: 2015-04-26 07:26:37 +0100
 categories: articles
 tags: [article, COP21, Inde, climat, diplomatie, négociations, abécédaire]
 image:
