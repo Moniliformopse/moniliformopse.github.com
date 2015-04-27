@@ -28,73 +28,73 @@ share: true
 
 **Le climat sur Terre détermine, en grande partie, la durabilité de l'habitat humain.**
 
-Alors qu'il subit naturellement des revirements spectaculaires durant de longues périodes, un nouvel élément anthropique (induit par l'Homme) au réchauffement de l'atmosphère a fait son apparition après le début de l'ère industrielle, ajoutant une dimension urgente et sans précédent au changement climatique.
+Alors qu'il subit naturellement des revirements spectaculaires durant de longues périodes, un nouvel élément anthropique (induit par l'Homme) au réchauffement de l'atmosphère a fait son apparition après le début de l'ère industrielle, ajoutant une dimension urgente et sans précédent au changement climatique.
 
 Ce réchauffement aurait plusieurs conséquences :
 
-- l'augmentation des inondations,
+- l'augmentation des inondations,
 - des sécheresses et des phénomènes météorologiques extrêmes,
 - la fonte des calottes de glace et des glaciers,
 - un impact sur les courants océaniques et sur les flux océan-atmosphère,
-- l'acidification des océans,
-- l'augmentation des niveaux de la mer et des inondations côtières qui menacent les petites îles et les deltas,
+- l'acidification des océans,
+- l'augmentation des niveaux de la mer et des inondations côtières qui menacent les petites îles et les deltas,
 - la réduction des forêts.
 
-Toutes se répercutent sur la sécurité alimentaire et les ressources d'eau douce. Elles entraînent aussi la perte de biodiversité.
+Toutes se répercutent sur la sécurité alimentaire et les ressources d'eau douce. Elles entraînent aussi la perte de biodiversité.
 
-**Alors que limpact global du changement climatique induit par l'Homme est de plus en plus reconnu, les pays du monde se réunissent pour négocier des accords destinés à résoudre collectivement cette préoccupation grandissante.**
+**Alors que l'impact global du changement climatique induit par l'Homme est de plus en plus reconnu, les pays du monde se réunissent pour négocier des accords destinés à résoudre collectivement cette préoccupation grandissante.**
 
-Les émissions de gaz à effet de serre (GES) proviennent essentiellement de la combustion d'énergies fossiles (pétrole, gaz, charbon) dans la production industrielle, les transports routiers/ferroviaires/aériens/maritimes, la production d'électricité, les immeubles, l'agriculture, etc.
+Les émissions de gaz à effet de serre (GES) proviennent essentiellement de la combustion d'énergies fossiles (pétrole, gaz, charbon) dans la production industrielle, les transports routiers/ferroviaires/aériens/maritimes, la production d'électricité, les immeubles, l'agriculture, etc.
 
 Elles sont donc très présentes dans des secteurs importants du développement économique.
 
-La compétitivité est dès lors touchée et pour lutter contre ce problème, un engagement international ou volontaire est nécessaire, notamment grâce aux négociations menées afin d'atténuer l'impact du changement climatique sur les politiques économiques/de développement, technologiques et énergétiques que les pays peuvent suivre.
+La compétitivité est dès lors touchée et pour lutter contre ce problème, un engagement international ou volontaire est nécessaire, notamment grâce aux négociations menées afin d'atténuer l'impact du changement climatique sur les politiques économiques/de développement, technologiques et énergétiques que les pays peuvent suivre.
 
 **Les négociations sont particulièrement tendues.**
 
-Alors que les pays développés ont prospéré grâce à une industrialisation basée sur les combustibles fossiles et une consommation énergétique très élevée par habitant, celle des pays en développement est toujours très faible et ces derniers relèvent d'importants défis pour leur croissance qui ne leur permettent pas de réduire leur consommation énergétique.
+Alors que les pays développés ont prospéré grâce à une industrialisation basée sur les combustibles fossiles et une consommation énergétique très élevée par habitant, celle des pays en développement est toujours très faible et ces derniers relèvent d'importants défis pour leur croissance qui ne leur permettent pas de réduire leur consommation énergétique.
 
 Les inquiétudes, les positions et les attentes des pays vis-à-vis des négociations sur le changement climatique se définissent, en grande partie, par leur profil énergétique, leur histoire, leur niveau de développement ainsi que par leurs propres faiblesses ressenties face aux impacts du changement climatique ou à leur dépendance en matière de combustibles fossiles en plus dautres dynamiques et intérêts internationaux, notamment dans le domaine de la compétitivité économique.
 
-Les négociations internationales sur le changement climatique sont menées sous l'égide de la [CCNUCC](http://unfccc.int/portal_francophone/items/3072.php "Lien externe") (Convention-cadre des Nations unies sur les changements climatiques) et visent à finaliser les accords qui spécifient les efforts à entreprendre par les différents pays pour lutter contre le réchauffement climatique induit par l''Homme.
+Les négociations internationales sur le changement climatique sont menées sous l'égide de la [CCNUCC](http://unfccc.int/portal_francophone/items/3072.php "Lien externe") (Convention-cadre des Nations unies sur les changements climatiques) et visent à finaliser les accords qui spécifient les efforts à entreprendre par les différents pays pour lutter contre le réchauffement climatique induit par l'Homme.
 
 **La CCNUCC a été mise au point en 1992 et ratifiée en 1994.**
 
-Les accords convenus jusqu'à présent par la CCNUCC couvrent la période s'étendant jusqu'en 2020.
+Les accords convenus jusqu'à présent par la CCNUCC couvrent la période s'étendant jusqu'en 2020.
 
-Les accords juridiquement contraignants encore d'application (Protocole de Kyoto de 1997, qui est entré en vigueur en 2005) ont prescrit des objectifs de réduction « absolue » des gaz à effet de serre (GES) applicables à un groupe de pays industrialisés (Parties Annexe-I), dans le cadre de leur « responsabilité historique » d'avoir causé le réchauffement climatique avec leurs industries et leurs autres utilisations des combustibles fossiles depuis la révolution industrielle.
+Les accords juridiquement contraignants encore d'application (Protocole de Kyoto de 1997, qui est entré en vigueur en 2005) ont prescrit des objectifs de réduction « absolue » des gaz à effet de serre (GES) applicables à un groupe de pays industrialisés (Parties Annexe-I), dans le cadre de leur « responsabilité historique » d'avoir causé le réchauffement climatique avec leurs industries et leurs autres utilisations des combustibles fossiles depuis la révolution industrielle.
 
-Les pays de l'Annexe-I doivent également fournir une aide financière et un savoir-faire technologique aux pays en développement pour leur permettre d'adopter des politiques économiques plus soucieuses de l'environnement.
+Les pays de l'Annexe-I doivent également fournir une aide financière et un savoir-faire technologique aux pays en développement pour leur permettre d'adopter des politiques économiques plus soucieuses de l'environnement.
 
-Le premier Principe de la Convention avance qu' « il incombe aux Parties de préserver le système climatique dans lintérêt des générations présentes et futures, sur la base de l'équité et en fonction de leurs responsabilités communes mais différenciées et de leurs capacités respectives. Il appartient, en conséquence, aux pays développés Parties d'être à l'avant-garde de la lutte contre les changements climatiques et leurs effets néfastes. »
+Le premier Principe de la Convention avance qu'« il incombe aux Parties de préserver le système climatique dans l'intérêt des générations présentes et futures, sur la base de l'équité et en fonction de leurs responsabilités communes mais différenciées et de leurs capacités respectives. Il appartient, en conséquence, aux pays développés Parties d'être à l'avant-garde de la lutte contre les changements climatiques et leurs effets néfastes. »
 
-Les Parties ont accepté d'enregistrer leurs émissions de GES et de publier des résumés annuels.
+Les Parties ont accepté d'enregistrer leurs émissions de GES et de publier des résumés annuels.
 
-Le préambule souligne que « la majeure partie des gaz à effet de serre émis dans le monde par le passé et à l'heure actuelle trouvent leur origine dans les pays développés, que les émissions par habitant dans les pays en développement sont encore relativement faibles et que la part des émissions totales imputable aux pays en développement ira en augmentant pour leur permettre de satisfaire leurs besoins sociaux et leurs besoins de développement. »
+Le préambule souligne que « la majeure partie des gaz à effet de serre émis dans le monde par le passé et à l'heure actuelle trouvent leur origine dans les pays développés, que les émissions par habitant dans les pays en développement sont encore relativement faibles et que la part des émissions totales imputable aux pays en développement ira en augmentant pour leur permettre de satisfaire leurs besoins sociaux et leurs besoins de développement. »
 
-L'Article 4.7 précise que la mesure dans laquelle les pays en développement s'acquitteront effectivement de leurs engagements au titre de la Convention dépendra des ressources financières et technologiques fournies par les pays développés et tiendra pleinement compte du fait que le développement économique et social et l'éradication de la pauvreté sont les priorités premières et essentielles des pays en développement Parties.
+L'Article 4.7 précise que la mesure dans laquelle les pays en développement s'acquitteront effectivement de leurs engagements au titre de la Convention dépendra des ressources financières et technologiques fournies par les pays développés et tiendra pleinement compte du fait que le développement économique et social et l'éradication de la pauvreté sont les priorités premières et essentielles des pays en développement Parties.
 
-Jusqu'à présent, les pays en développement étaient dispensés de toute contrainte juridique de réduire les émissions, bien qu'ils soient plusieurs (dont la Chine et l'Inde) à s'être volontairement engagés en 2009 à réduire essentiellement l'intensité énergétique de leurs économies (pas de réduction absolue des émissions) dans le cadre de leur comportement responsable et dans leur propre intérêt.
+Jusqu'à présent, les pays en développement étaient dispensés de toute contrainte juridique de réduire les émissions, bien qu'ils soient plusieurs (dont la Chine et l'Inde) à s'être volontairement engagés en 2009 à réduire essentiellement l'intensité énergétique de leurs économies (pas de réduction absolue des émissions) dans le cadre de leur comportement responsable et dans leur propre intérêt.
 
 **Les pays développés exercent une pression pour que les grands pays en développement prennent également des engagements contraignants.**
 
-Alors que l'accord de la CCNUCC de 1992 et [le Protocole de Kyoto](http://moniliformopse.github.io/articles/protocole-kyoto/) qui a suivi définissaient clairement les différentes séries d'engagements pour les pays en développement et les pays développés (sur la base des principes de responsabilité historique, des responsabilités communes mais différenciées, des capacités propres et de l'équité qui découlent du Protocole de Montréal de 1987 sur le contrôle des substances qui diminuent la couche dozone et de la Déclaration de Rio de 1992 sur le développement durable), la non-ratification du Protocole de Kyoto par les États-Unis (le plus grand émetteur actuel et historique) a entraîné une réaction de la part de nombreux autres pays développés qui ont déclaré qu'ils se désengageraient sauf si les États-Unis prenaient les mêmes engagements contraignants.
+Alors que l'accord de la CCNUCC de 1992 et [le Protocole de Kyoto](http://moniliformopse.github.io/articles/protocole-kyoto/) qui a suivi définissaient clairement les différentes séries d'engagements pour les pays en développement et les pays développés (sur la base des principes de responsabilité historique, des responsabilités communes mais différenciées, des capacités propres et de l'équité qui découlent du Protocole de Montréal de 1987 sur le contrôle des substances qui diminuent la couche dozone et de la Déclaration de Rio de 1992 sur le développement durable), la non-ratification du Protocole de Kyoto par les États-Unis (le plus grand émetteur actuel et historique) a entraîné une réaction de la part de nombreux autres pays développés qui ont déclaré qu'ils se désengageraient sauf si les États-Unis prenaient les mêmes engagements contraignants.
 
-Les Américains ne participeront au processus qu'à la condition que les grands pays en développement réduisent également leurs émissions.
+Les Américains ne participeront au processus qu'à la condition que les grands pays en développement réduisent également leurs émissions.
 
-Il est à noter que plusieurs pays développés restent toujours en dehors du Protocole de Kyoto (qui est en vigueur jusqu'en 2020).
+Il est à noter que plusieurs pays développés restent toujours en dehors du Protocole de Kyoto (qui est en vigueur jusqu'en 2020).
 
-**Les négociations sont désormais en cours afin de finaliser d'ici décembre 2015 un accord unique applicable à toutes les parties pour couvrir la période après 2020.**
+**Les négociations sont désormais en cours afin de finaliser d'ici décembre 2015 un accord unique applicable à toutes les parties pour couvrir la période après 2020.**
 
 Tous les pays doivent communiquer leurs « contributions prévues fixées au niveau national » avant l'accord de 2015.
 
-Les pays développés Parties au titre des deux Annexes nont pas fait preuve dun grand enthousiasme pour respecter leurs engagements de réduction des émissions ou dassistance financière et technologique aux pays en développement.
+Les pays développés Parties au titre des deux Annexes nont pas fait preuve d'un grand enthousiasme pour respecter leurs engagements de réduction des émissions ou d'assistance financière et technologique aux pays en développement.
 
-Les pays développés (Parties Annexe I) ont clairement échoué à honorer leurs engagements pris en vertu de la CCNUCC et du Protocole de Kyoto, qui sont tous les deux liés à la réduction des émissions et à l'apport de ressources financières et technologiques aux pays en développement.
+Les pays développés (Parties Annexe I) ont clairement échoué à honorer leurs engagements pris en vertu de la CCNUCC et du Protocole de Kyoto, qui sont tous les deux liés à la réduction des émissions et à l'apport de ressources financières et technologiques aux pays en développement.
 
-Malgré le grand écart entre leurs niveaux de vie et leur consommation énergétique par habitant, les pays développés exercent une pression sur les pays en développement, en particulier les économies en croissance, afin qu'ils acceptent différentes contraintes alors qu'eux-mêmes n'honorent pas leurs propres engagements.
+Malgré le grand écart entre leurs niveaux de vie et leur consommation énergétique par habitant, les pays développés exercent une pression sur les pays en développement, en particulier les économies en croissance, afin qu'ils acceptent différentes contraintes alors qu'eux-mêmes n'honorent pas leurs propres engagements.
 
-En même temps, différentes études ont démontré que les pays en développement ont, de leur propre volonté, fait davantage ces dernières années pour relever les défis du changement climatique dans leurs pays en réduisant l'intensité des émissions de la croissance de leur PIB notamment en optant pour des technologies plus respectueuses de l'environnement, lénergie renouvelable ou encore en améliorant leur efficacité énergétique.
+En même temps, différentes études ont démontré que les pays en développement ont, de leur propre volonté, fait davantage ces dernières années pour relever les défis du changement climatique dans leurs pays en réduisant l'intensité des émissions de la croissance de leur PIB notamment en optant pour des technologies plus respectueuses de l'environnement, l'énergie renouvelable ou encore en améliorant leur efficacité énergétique.
 
 **Lecture complémentaire :** « [Comprendre la COP 21 et ses enjeux](http://moniliformopse.github.io/articles/enjeux-cop-21/) »
 {: .notice}
