@@ -129,15 +129,15 @@ Toutefois, l'étendue du défi reste considérable.
 
 Malgré son statut d'économie en croissance, l'Inde a encore beaucoup de chemin à parcourir pour fournir un niveau de vie décent à tous ses habitants.
 
-Elle devrait continuer à augmenter sa consommation d'énergie et d'autres ressources, y compris ses ressources financières.
+Elle devrait continuer à augmenter sa consommation d'énergie et d'autres ressources, y compris ses ressources financières.
 
-Étant donné la nature de ses sources énergétiques, son bouquet énergétique, elle continuera probablement à dépendre essentiellement des combustibles fossiles (pétrole, gaz, charbon) sur le moyen terme, comme d'autres pays développés et en développement.
+Étant donné la nature de ses sources énergétiques, son bouquet énergétique, elle continuera probablement à dépendre essentiellement des combustibles fossiles (pétrole, gaz, charbon) sur le moyen terme, comme d'autres pays développés et en développement.
 
 Et, au vu de ses besoins considérables de croissance et ses priorités visant à réduire la pauvreté et à fournir au peuple un accès à l'énergie et aux autres ressources, il est indispensable que sa croissance économique se poursuive.
 
 En 2007, dans son discours à la réunion du G8+5 à Heiligendamm, en Allemagne, le Premier ministre indien, le Dr Manmohan Singh, a souligné la détermination de son pays en déclarant que « les émissions de GES par habitant en Inde ne dépasseront pas celles des pays développés, même en poursuivant des politiques de développement et de croissance économique. »
 
-En 2009, juste avant la réunion de la Conférence des Parties de Copenhague, l'Inde s'est également engagée de manière volontaire à réduire l'intensité de ses émissions (20-25% d'ici 2020 par rapport aux niveaux de 2005).
+En 2009, juste avant la réunion de la Conférence des Parties de Copenhague, l'Inde s'est également engagée de manière volontaire à réduire l'intensité de ses émissions (20-25% d'ici 2020 par rapport aux niveaux de 2005).
 
 En 2010, cet engagement a été inscrit dans la CCNUCC (avec ceux d'autres pays en développement).
 
@@ -147,9 +147,9 @@ Durant son discours du Jour de l'Indépendance en 2014, le Premier ministre indi
 
 Le gouvernement souligne également la nécessité de nettoyer les rivières.
 
-Dans le plus récent budget de l'Union (2014-2015), l'Inde a doublé la taxe Énergie propre sur le charbon, la tourbe et le lignite (jusqu'à 100 roupies par tonne) afin d'augmenter les fonds destinés à lutter contre le changement climatique.
+Dans le plus récent budget de l'Union (2014-2015), l'Inde a doublé la taxe Énergie propre sur le charbon, la tourbe et le lignite (jusqu'à 100 roupies par tonne) afin d'augmenter les fonds destinés à lutter contre le changement climatique.
 
-Un Fonds d'Adaptation national pour le Changement climatique a été mis en place avec un financement d'environ 18 millions de dollars.
+Un Fonds d'Adaptation national pour le Changement climatique a été mis en place avec un financement d'environ 18 millions de dollars.
 
 Un Institut national sur le Changement climatique a également vu le jour.
 
@@ -169,7 +169,7 @@ Elle est adepte des responsabilités communes mais différenciées et des princi
 
 L'Inde insiste sur le fait que les pays développés doivent respecter leurs engagements en vertu de la Convention en ce qui concerne la réduction de leurs émissions et l'assistance aux pays en développement en termes d'aide financière et de transfert de technologie.
 
-L'Inde s'aligne étroitement sur le G-77 (depuis le début des négociations), le groupe BASIC, qui comprend le Brésil, l'Afrique du Sud, l'Inde et la Chine (depuis la réunion à Copenhague en 2009) et les Pays développés aux vues similaires, qui constituent un groupe d'environ 25-30 pays (depuis la réunion de Durban en 2011).
+L'Inde s'aligne étroitement sur le G-77 (depuis le début des négociations), le groupe BASIC, qui comprend le Brésil, l'Afrique du Sud, l'Inde et la Chine (depuis la réunion à Copenhague en 2009) et les Pays développés aux vues similaires, qui constituent un groupe d'environ 25-30 pays (depuis la réunion de Durban en 2011).
 {: .notice}
 
 Désormais, tous les pays doivent soumettre leurs « contributions prévues fixées au niveau national » avant la Conférence des Parties de la CCNUCC qui se tiendra à Paris en décembre 2015.
