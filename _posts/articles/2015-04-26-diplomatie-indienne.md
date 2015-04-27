@@ -123,7 +123,7 @@ Aujourd'hui, l'Inde, qui compte 17 % de la population mondiale, représente envi
 Cependant, en considérant le taux par habitant, les émissions du pays ne constituent qu'une infime portion en comparaison avec les grands émetteurs.
 {: .notice}
 
-**Ces dernières années, l'Inde est parvenue à sortir une grande partie de sa population de la pauvreté grâce à une croissance économique inclusive.**
+**Ces dernières années, l'Inde est parvenue à sortir une grande partie de sa population de la pauvreté grâce à une croissance économique inclusive.**
 
 Toutefois, l'étendue du défi reste considérable.
 
@@ -174,66 +174,66 @@ L'Inde s'aligne étroitement sur le G-77 (depuis le début des négociations), l
 
 Désormais, tous les pays doivent soumettre leurs « contributions prévues fixées au niveau national » avant la Conférence des Parties de la CCNUCC qui se tiendra à Paris en décembre 2015.
 
-**Alors que les pays développés souhaitent essentiellement des engagements d'atténuation de la part des pays en développement, ces derniers insistent pour que les contributions prévues comprennent également l'adaptation et les moyens de mise en oeuvre.**
+**Alors que les pays développés souhaitent essentiellement des engagements d'atténuation de la part des pays en développement, ces derniers insistent pour que les contributions prévues comprennent également l'adaptation et les moyens de mise en oeuvre.**
 
-Le gouvernement indien reconnaît l'importance et l'ampleur des problèmes liés au réchauffement climatique ainsi que ses effets négatifs, en particulier sur les secteurs de l'agriculture, de l'industrie forestière et de l'eau.
+Le gouvernement indien reconnaît l'importance et l'ampleur des problèmes liés au réchauffement climatique ainsi que ses effets négatifs, en particulier sur les secteurs de l'agriculture, de l'industrie forestière et de l'eau.
 
-Il a suivi un ambitieux Plan daction national sur le changement climatique (National Action Plan on Climate Change - NAPCC) qui comprend huit Missions nationales (dont celles sur l'énergie solaire et l'efficacité énergétique) afin de conférer un aspect durable à sa croissance et à son développement.
+Il a suivi un ambitieux Plan d'action national sur le changement climatique (National Action Plan on Climate Change - NAPCC) qui comprend huit Missions nationales (dont celles sur l'énergie solaire et l'efficacité énergétique) afin de conférer un aspect durable à sa croissance et à son développement.
 
-La plupart des États ont également rédigé leurs propres plans daction.
+La plupart des États ont également rédigé leurs propres plans d'action.
 
-Certains programmes actuels d'adaptation au changement climatique en Inde comprennent :<br>
+Certains programmes actuels d'adaptation au changement climatique en Inde comprennent :<br>
 - des recherches pour améliorer les récoltes,<br>
-- l'atténuation de la sécheresse (réduire ses effets sur les cultures et le bétail, la productivité de la terre, l'eau et les ressources humaines),<br>
+- l'atténuation de la sécheresse (réduire ses effets sur les cultures et le bétail, la productivité de la terre, l'eau et les ressources humaines),<br>
 - le reboisement,<br>
 - la conservation et la recharge des eaux souterraines,<br>
-- la récolte de l'eau de pluie,<br>
+- la récolte de l'eau de pluie,<br>
 - la protection des écosystèmes côtiers fragiles,<br>
 - la surveillance et le contrôle des maladies à transmission vectorielle,<br>
-- le renforcement des capacités pour l'aide médicale urgente,<br>
-- le financement des risques grâce à des régimes d'assurance des récoltes et des mécanismes de soutien du crédit,<br>
+- le renforcement des capacités pour l'aide médicale urgente,<br>
+- le financement des risques grâce à des régimes d'assurance des récoltes et des mécanismes de soutien du crédit,<br>
 - la réduction des risques de catastrophes et les mesures de gestion.
 {: .notice}
 
-En plus des Missions nationales, d'autres programmes d'atténuation des GES comprennent
+En plus des Missions nationales, d'autres programmes d'atténuation des GES comprennent
 
-- la promotion de l'efficacité énergétique et lénergie renouvelable, y compris les biocarburants, le développement accéléré du nucléaire et de l'hydraulique,
+- la promotion de l'efficacité énergétique et l'énergie renouvelable, y compris les biocarburants, le développement accéléré du nucléaire et de l'hydraulique,
 - la R&D sur les technologies énergétiques propres,
-- l'étiquetage énergétique sur les appareils électroménagers,
-- l'Energy Conservation Building Code,
-- l'audit énergétique des grands consommateurs industriels,
+- l'étiquetage énergétique sur les appareils électroménagers,
+- l'Energy Conservation Building Code,
+- l'audit énergétique des grands consommateurs industriels,
 - la promotion du transport de masse,
-- les initiatives liées à lair propre,
-- la promotion d'appareils économes en énergie (lampes à fluorescence, chauffe-eau solaire).
+- les initiatives liées à l'air propre,
+- la promotion d'appareils économes en énergie (lampes à fluorescence, chauffe-eau solaire).
 
 La Mission solaire nationale a pour but de promouvoir :
 
-- la génération dénergie héliothermique et d'énergie solaire photovoltaïque,
+- la génération d'énergie héliothermique et d'énergie solaire photovoltaïque,
 - la collaboration en matière de R&D,
 - le transfert de technologie et le renforcement des capacités.
 
-La Mission nationale sur l'amélioration de l'efficacité énergétique dans le secteur de l'industrie s'intéresse :
+La Mission nationale sur l'amélioration de l'efficacité énergétique dans le secteur de l'industrie s'intéresse :
 
-- au développement d'options technologiques de réduction des émissions de GES propres au secteur et transversales,
+- au développement d'options technologiques de réduction des émissions de GES propres au secteur et transversales,
 - au changement de combustibles,
 - au potentiel pour la réduction des émissions,
-- aux avantages mutuels en termes de réduction de carburant et de matériel pour parvenir à une diminution des émissions et à l'amélioration de la qualité des produits,
+- aux avantages mutuels en termes de réduction de carburant et de matériel pour parvenir à une diminution des émissions et à l'amélioration de la qualité des produits,
 - au transfert de technologie,
 - au financement,
 - au renforcement des capacités,
 - aux options politiques et réglementaires,
 - aux options de distribution (mises à jour par le financement institutionnel, le développement par groupes de PME et la promotion des Sociétés de services énergétiques),
-- aux plateformes de Financement de l'efficacité énergétique,
-- au Bureau de l'efficacité énergétique.
+- aux plateformes de Financement de l'efficacité énergétique,
+- au Bureau de l'efficacité énergétique.
 
-L'Inde a hâte de s'engager activement dans le processus de la CCNUCC afin d'élaborer un accord complet, équilibré et équitable pour la période après 2020 qui prenne en considération les besoins en matière de croissance des pays en développement et qui apporte des solutions au changement climatique de manière appropriée grâce à la réduction, l'adaptation et la facilitation du financement, à la technologie et au renforcement des capacités dans un effort global de véritable collaboration.
+L'Inde a hâte de s'engager activement dans le processus de la CCNUCC afin d'élaborer un accord complet, équilibré et équitable pour la période après 2020 qui prenne en considération les besoins en matière de croissance des pays en développement et qui apporte des solutions au changement climatique de manière appropriée grâce à la réduction, l'adaptation et la facilitation du financement, à la technologie et au renforcement des capacités dans un effort global de véritable collaboration.
 {: .notice}
 
 **Lectures complémentaires :** [tous nos articles sur l'Inde et le changement climatique](http://lycbascannotrecop21.tumblr.com/tagged/inde "Lien vers le Tumblr").
 
 ---
 
-##L'abécédaire des négociations internationales sur le climat
+##L'abécédaire des négociations internationales sur le climat
 
 <figure>
 	<a href="http://www.notretribunet.fr/MonBlogGitHub/images/png/nuages_mots.png"><img src="http://bit.ly/1JJzIag" alt="figure" /></a>
