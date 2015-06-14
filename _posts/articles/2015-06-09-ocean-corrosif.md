@@ -47,16 +47,16 @@ En réalité, il apparaît de plus en plus clairement que la détérioration de 
 
 > « On entend trop souvent dire que la forêt est le poumon de la planète, mais deux poumons valent mieux qu’un pour respirer. L’océan absorbe du gaz carbonique, produit de l’oxygène, emmagasine énormément de chaleur, a rappelé le ministre. Je souhaite qu’il ait toute sa place à l’avenir dans le débat. »Certains verront ce vœu comme un renvoi à plus tard, à d’autres conférences sur le climat à venir.
 
-Pourtant, la journée de rencontre organisée par la commission océanique intergouvernementale de l’Unesco et la Plateforme océan et climat, qui rassemble des instituts de recherche, des ONG ou des fondations, a montré qu’il y avait urgence.
+Pourtant, la journée de rencontre organisée par la [commission océanique intergouvernementale](http://www.unesco.org/new/fr/natural-sciences/ioc-oceans/ "Lien externe") (COI) de l’Unesco et la [Plateforme océan et climat](http://www.ocean-climate.org/ "Lien externe"), qui rassemble des instituts de recherche, des ONG ou des fondations, a montré qu’il y avait urgence.
 
 Sur notre planète, il n’existe qu’un – et non pas des – océan, qui joue un rôle fondamental dans la régulation du climat, tandis qu’en retour, le réchauffement atmosphérique a un impact déterminant sur ce milieu.
 
-Déjà, 97,5 % de l’évaporation dont dépend la pluviométrie vient de l’océan.
+**Déjà, 97,5 % de l’évaporation dont dépend la pluviométrie vient de l’océan.**
 
-Non seulement près de sa surface éclairée par le soleil, il abrite un écosystème planctonique qui fournit de l’oxygène selon le principe de la photosynthèse, mais il stocke en outre près de 30 % des émissions de dioxyde de carbone dues aux activités humaines dans ses sombres profondeurs, explique Françoise Gaill.
+Non seulement près de sa surface éclairée par le soleil, il abrite un écosystème planctonique qui fournit de l’oxygène selon le principe de la photosynthèse, mais il stocke en outre près de 30 % des émissions de dioxyde de carbone dues aux activités humaines dans ses sombres profondeurs, explique [Françoise Gaill](https://lejournal.cnrs.fr/auteurs/francoise-gaill "Lien externe").
 
 > « Il en contient 50 fois plus que l’atmosphère »<br>
-<small>— précise cette directrice de recherche au CNRS qui coordonne le comité scientifique de la [Plateforme océan et climat](http://www.ocean-climate.org).</small>
+<small>— précise cette directrice de recherche au CNRS qui coordonne le comité scientifique de la [Plateforme océan et climat](http://www.ocean-climate.org "Lien externe").</small>
 
 > « Cela génère une dilatation qui provoque la montée des eaux, de façon non homogène. Et ce mécanisme va s’accentuer avec la fonte des glaces. »
 
@@ -124,7 +124,7 @@ La Plateforme Océan et Climat regroupe des organismes scientifiques, des univer
 
 Elle a été créée le 10 juin 2014, à l’occasion de la journée mondiale des océans, avec l’appui de la commission océanographique intergouvernementale de I’Unesco.
 
-**Voir en ligne :** [www.ocean-climate.org](http://www.ocean-climate.org)
+**Voir en ligne :** [www.ocean-climate.org](http://www.ocean-climate.org "Lien externe")
 {: .notice}
 
 ##Faites entendre la voix de l’océan !
@@ -134,7 +134,7 @@ Elle a été créée le 10 juin 2014, à l’occasion de la journée mondiale de
 	<figcaption><a href="https://www.youtube.com/watch?v=WHDj1zSKc-g" target="_blank" title="lien externe, s'ouvre dans une nouvelle fenêtre">Vidéo sur YouTube</a> - Durée : 1 minute 05 secondes  - Vidéo publié le 7 juin 2015.</figcaption>
 </figure>
 
-**Description :** Un Océan en bonne santé, c'est un climat préservé. Ensemble, faisons entendre la voix de l'Océan ! - [#OceanforClimate](https://twitter.com/hashtag/oceanforclimate)
+**Description :** Un Océan en bonne santé, c'est un climat préservé. Ensemble, faisons entendre la voix de l'Océan ! - [#OceanforClimate](https://twitter.com/hashtag/oceanforclimate "Lien externe")
 
 **Source :** [Ensemble, faisons entendre la voix de l’Océan ! ](https://www.change.org/p/ensemble-faisons-entendre-la-voix-de-l-océan "Lien externe") 
 {: .notice}
