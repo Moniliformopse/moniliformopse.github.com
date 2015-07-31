@@ -133,4 +133,4 @@ Légende stratigraphique :
 **Lire en complément :**
 
 - [La chaîne de Belledone](http://moniliformopse.github.io/articles/belledone/) (Présentation générale)
-- La géologie de Prapoutel-les-7-Laux
+- [La géologie de Prapoutel-les-7-Laux](http://moniliformopse.github.io/articles/prapoutel-sept-laux/)
