@@ -1,10 +1,10 @@
 ---
 layout: post
-title: La chaîne de Belledone
+title: La chaîne de Belledonne
 excerpt: "Présentation générale"
 modified: 2015-07-28 19:47:25 +0100
 categories: articles
-tags: [article, géologie, Alpes, Isère, Belledone, Chartreuse, Grésivaudan]
+tags: [article, géologie, Alpes, Isère, Belledonne, Chartreuse, Grésivaudan]
 image:
   feature: panorama_pied_des_alpes.jpg
   credit:  © Google Earth
@@ -42,7 +42,7 @@ La chaîne de Belledonne tire son nom des Pics de Belledonne, qui comportent le 
 
 Selon les études étymologiques les plus récentes (P.L. Rousset) son nom n'aurait rien à voir avec des « belles dames » mais dériverait de la racine pré-indo-européenne BAL (= hauteur, rocher).
 
-La chaîne de Belledone appartient à l'arc des massifs cristallins externes des Alpes.
+La chaîne de Belledonne appartient à l'arc des massifs cristallins externes des Alpes.
 
 Elle correspond à la partie comprise entre l'entaille de la vallées de l'Arc (basse Maurienne) au nord et celle de la vallée de la Romanche au sud, qui n'est tranchée par aucune autre vallée transversale. Mais elle se prolonge, du point de vue structural, vers le nord par les chaînons du Grand Arc et de la Lauzière, puis ceux du Beaufortain occidental et enfin des Aiguilles Rouges et, d'autre part, vers le sud par celui du Taillefer.
 
@@ -56,11 +56,11 @@ Elle correspond à la partie comprise entre l'entaille de la vallées de l'Arc (
 	<figcaption>Figure 5 - Carte de localisation de la chaîne de Belledonne dans la zone externe des Alpes - Détail de la carte schématique des massifs cristallins externes.</figcaption>
 </figure>
 
-A l’Ouest de la chaîne de Belledone, se trouve le massif de la Chartreuse, moins élevé, qui appartient à l’ensemble des massifs subalpins. Ces derniers (au même titre que les massifs des Bauges ou le Vercors) sont les premiers que l’on rencontre en abordant les Alpes depuis l’Ouest. Par leurs caractères géologiques ils se rattachent au Jura.
+A l’Ouest de la chaîne de Belledonne, se trouve le massif de la Chartreuse, moins élevé, qui appartient à l’ensemble des massifs subalpins. Ces derniers (au même titre que les massifs des Bauges ou le Vercors) sont les premiers que l’on rencontre en abordant les Alpes depuis l’Ouest. Par leurs caractères géologiques ils se rattachent au Jura.
 
-D’autre part, le massif de la Chartreuse est séparé du massif cristallin externe de Belledone par le sillon « subalpin » qu’emprunte la vallée de l’Isère : il correspond à une zone d’érosion plus facile, en liaison avec un changement de nature des roches. Cette portion du sillon située à cette latitude est dénommée le Grésivaudan.
+D’autre part, le massif de la Chartreuse est séparé du massif cristallin externe de Belledonne par le sillon « subalpin » qu’emprunte la vallée de l’Isère : il correspond à une zone d’érosion plus facile, en liaison avec un changement de nature des roches. Cette portion du sillon située à cette latitude est dénommée le Grésivaudan.
 
-Enfin, la chaîne de Belledone et le massif subalpin de la Chartreuse forment deux groupes de massifs qui constituent les chaînons dits externes de l’arc des Alpes. Ils s’opposent au domaine « interne » (ou zones internes) situé plus à l’Est (proche de la frontière franco-italienne), par le fait qu’ils n’ont pas été atteints par les vastes déplacements de masses rocheuses appelés « charriages » ayant marqué l’histoire des Alpes franco-italiennes.
+Enfin, la chaîne de Belledonne et le massif subalpin de la Chartreuse forment deux groupes de massifs qui constituent les chaînons dits externes de l’arc des Alpes. Ils s’opposent au domaine « interne » (ou zones internes) situé plus à l’Est (proche de la frontière franco-italienne), par le fait qu’ils n’ont pas été atteints par les vastes déplacements de masses rocheuses appelés « charriages » ayant marqué l’histoire des Alpes franco-italiennes.
 
 <figure>
 	<a href="https://farm1.staticflickr.com/515/19485767744_90fe2ee837_o.jpg"><img src="http://bit.ly/1fG2Fe6" alt="figure" /></a>
@@ -85,7 +85,7 @@ Le dessin de l'interface socle-couverture est celui fourni par les sondages sism
 
 Ressource supplémentaire à visualiser avec Google Earth
 
-- télécharger le fichier : [la_chaine_de_belledone.kmz](http://bit.ly/1SMkLHU "fichier au format kmz, à consulter avec Google Earth")
+- télécharger le fichier : [la_chaine_de_belledonne.kmz](http://bit.ly/1Idm8N0 "fichier au format kmz, à consulter avec Google Earth")
 
 ----
 **Lire en complément :**
