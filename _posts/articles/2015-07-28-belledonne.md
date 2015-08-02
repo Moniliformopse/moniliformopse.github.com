@@ -90,5 +90,5 @@ Ressource supplémentaire à visualiser avec Google Earth
 ----
 **Lire en complément :**
 
-- [La bordure occidentale de Belledonne](http://moniliformopse.github.io/articles/bordure-belledone/)
+- [La bordure occidentale de Belledonne](http://moniliformopse.github.io/articles/bordure-belledonne/)
 - [La géologie de Prapoutel-les-7-Laux](http://moniliformopse.github.io/articles/prapoutel-sept-laux/)
