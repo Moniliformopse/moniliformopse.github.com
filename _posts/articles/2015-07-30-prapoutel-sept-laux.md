@@ -140,7 +140,7 @@ Légende tectonique :
 - f.C = faille (décrochement ?) de la Coche ;
 - ØO = surface de chevauchement de la nappe des ophiolites du Ferrouillet - Grand Pic de Belledonne.
 
-##La tectonique du massif de Belledone
+##La tectonique du massif de Belledonne
 
 <figure>
 	<a href="https://farm1.staticflickr.com/511/19487411763_f5d0c5ca9f_o.gif"><img src="http://bit.ly/1DUDzhx" alt="figure" /></a>
